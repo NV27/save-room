@@ -1,0 +1,25 @@
+html{
+    background: #000;
+}
+
+h1{
+    font-size: 52px;
+}
+
+.save-game{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    color: white;
+    width: 500px;
+    margin: auto;
+    margin-top: 250px;
+}
+
+.options{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
